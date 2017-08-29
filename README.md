@@ -16,8 +16,10 @@ Praseeda Sasanka Pisipati. As the semester goes , my team members will contirbut
 
 * **Praseeda Sasanka Pisipati** - *Initial work* - [Praseeda Sasanka Pisipati](https://github.com/PraseedaSasankaPisipati)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/PraseedaSasankaPisipati/Assignment-1-D2Decisions/graphs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the Apache License 2.0 License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+
+
