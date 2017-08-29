@@ -20,6 +20,8 @@ See also the list of [contributors](https://github.com/PraseedaSasankaPisipati/A
 
 ## License
 
-This project is licensed under the Apache License 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License 2.0 License - see the [LICENSE](LICENSE) file for details
 
+## List of files 
 
+This is initially created empty repository with  [LICENSE](LICENSE) and  [README.md](README.md) files. As the semseter goes , we will add the necessary files required for further assignments.
