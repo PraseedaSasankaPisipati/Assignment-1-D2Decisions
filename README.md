@@ -28,6 +28,6 @@ This is initially created empty repository with the following files
  * [LICENSE](LICENSE) 
  * [README.md](README.md)
 
-> As the semseter goes , we will add the necessary files required for further assignments.
+> NOTE: As the semseter goes , we will add the necessary files required for further assignments.
 
 
