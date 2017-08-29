@@ -14,7 +14,7 @@ Praseeda Sasanka Pisipati. As the semester goes , my team members will contirbut
 
 ## Authors
 
-* **Praseeda Sasanka Pisipati** - *Initial work* - [Praseeda Sasanka Pisipati](https://github.com/PraseedaSasankaPisipati)
+**Praseeda Sasanka Pisipati** - *Initial work* - [Praseeda Sasanka Pisipati](https://github.com/PraseedaSasankaPisipati)
 
 See also the list of [contributors](https://github.com/PraseedaSasankaPisipati/Assignment-1-D2Decisions/graphs/contributors) who participated in this project.
 
