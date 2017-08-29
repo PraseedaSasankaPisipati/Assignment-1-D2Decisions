@@ -12,10 +12,6 @@ We need to have a git bash up and running in our local machine to clone the repo
 
 Praseeda Sasanka Pisipati. As the semester goes , my team members will contirbute to this repository.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Praseeda Sasanka Pisipati** - *Initial work* - [Praseeda Sasanka Pisipati](https://github.com/PraseedaSasankaPisipati)
