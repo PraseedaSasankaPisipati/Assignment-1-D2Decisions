@@ -24,4 +24,8 @@ This project is licensed under the Apache License 2.0 License - see the [LICENSE
 
 ## List of files 
 
-This is initially created empty repository with  [LICENSE](LICENSE) and  [README.md](README.md) files. As the semseter goes , we will add the necessary files required for further assignments.
+This is initially created empty repository with  [LICENSE](LICENSE) and  [README.md](README.md) files.
+
+> NOTE:As the semseter goes , we will add the necessary files required for further assignments.
+
+
