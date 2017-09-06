@@ -25,10 +25,10 @@ This project is licensed under the Apache License 2.0 License - see the [LICENSE
 ## List of files 
 
 This is initially created empty repository with the following files 
- * [LICENSE](LICENSE) 
- * [README.md](README.md)
- * Train Tables.md file contains the data for time table for various trains
- * MovieLens folder contains the data sets for the various movies
+ * LICENSE
+ * README.md
+ * TrainTables.md file contains the data for time table for various trains
+ * /MovieLens (contains the data sets for the various movies)
  * ChicagoData.md file contains the data set for teh various causes of death in chicago during 2006-2010
 
 > NOTE: As the semseter goes , we will add the necessary files required for further assignments.
@@ -37,5 +37,5 @@ This is initially created empty repository with the following files
     Praseeda Sasanka Pisipati
 
 ## Last modified at
-   08/28/2017 19:24 PM  
+   09/05/2017 11:30 PM  
 
