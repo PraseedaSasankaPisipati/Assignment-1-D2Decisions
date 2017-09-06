@@ -19,7 +19,7 @@ This data can be used to analyse the follwong factors:
 
 Public Health Statistics- Selected underlying causes of death in Chicago, 2006 – 2010 | City of Chicago | Data Portal. (n.d.). Retrieved September 06, 2017, from https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-underlying-cause/j6cj-r444/data
 
-##LICENSE
+## LICENSE
 
 This data is licensed under the Copyright © 2010 - 2017 City of Chicago act and the project is referred for the following website 
 https://www.cityofchicago.org/city/en.html
