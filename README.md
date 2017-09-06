@@ -28,8 +28,9 @@ This is initially created empty repository with the following files
  * LICENSE
  * README.md
  * isl_wise_train_detail_03082015_v1.csv file contains the data for time table for various trains
- * /MovieLens (contains the data sets for the various movies)
- * ChicagoData.json file contains the data set for teh various causes of death in chicago during 2006-2010
+ * /MovieLens (contains the data sets and md file for the various movies)
+ * /ChicagoDeathData(contains the data sets and md file for the various causes of death in chicago during 2006-2010)
+ * /TrainTimeTables(contains the data set file and md file for the time tables of trains originating at different stations)
 
 > NOTE: As the semseter goes , we will add the necessary files required for further assignments.
 
@@ -37,5 +38,5 @@ This is initially created empty repository with the following files
     Praseeda Sasanka Pisipati
 
 ## Last modified at
-   09/05/2017 11:30 PM  
+   09/06/2017 09:03 AM  
 
