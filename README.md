@@ -25,8 +25,8 @@ This project is licensed under the Apache License 2.0 License - see the [LICENSE
 ## List of files 
 
 This is initially created empty repository with the following files 
- * LICENSE
- * README.md
+ * [LICENSE](LICENSE)
+ * [README.md](README.md)
  * isl_wise_train_detail_03082015_v1.csv file contains the data for time table for various trains
  * /MovieLens (contains the data sets and md file for the various movies)
  * /ChicagoDeathData(contains the data sets and md file for the various causes of death in chicago during 2006-2010)
