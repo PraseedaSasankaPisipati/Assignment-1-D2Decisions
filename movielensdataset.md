@@ -40,16 +40,17 @@ The following files are included as a part of this data set
  * [ratings.csv](ratings.csv)
  
 
-* links.csv contains id's for each movie in the movielens database, imdb database and themoviedatabase
+1.links.csv contains id's for each movie in the movielens database, imdb database and themoviedatabase
 
-* movieId,imdbId,tmdbId individual Id's for the same movie in movielens.org,imdb.com,themoviedb.org.
+    * movieId,imdbId,tmdbId individual Id's for the same movie in movielens.org,imdb.com,themoviedb.org.
 
-* movie_metadata file contains the raw information about a particular movie such as director,duration,length of movie,genre,movie title,country it is released, names of the actors etc.
+2.movie_metadata file contains the raw information about a particular movie such as director,duration,length of movie,genre,movie title,country it is released, names of the actors etc.
 
-* movies.csv file contains the movieId,genre and title of the movie
-ratings.csv	
+3.movies.csv file contains the movieId,genre and title of the movie
 
-> NOTE: As the semseter goes , we will add the necessary files required for further assignments.
+4.ratings.csv	 file contains the ratings for various movies over the time peroid
+
+> NOTE: The ratingts.csv file is about 600 MB and even the compressed ZIP file is larger than 100 MB .Git hub allows only 100 MB per file . So I have deleted som of the content to make the file less than 100 MB and the original file is saved in my local system  
 
 ## Data Analysis
 
