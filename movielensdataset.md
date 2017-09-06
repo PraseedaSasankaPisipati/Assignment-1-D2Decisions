@@ -50,7 +50,7 @@ The following files are included as a part of this data set
 
 4.ratings.csv	 file contains the ratings for various movies over the time peroid
 
-> NOTE: The ratingts.csv file is about 600 MB and even the compressed ZIP file is larger than 100 MB .Git hub allows only 100 MB per file . So I have deleted som of the content to make the file less than 100 MB and the original file is saved in my local system  
+> NOTE: The ratingts.csv file is about 600 MB and even the compressed ZIP file is larger than 100 MB .Git hub allows only 100 MB per file . So I have deleted some of the content to make the file less than 100 MB and the original file is saved in my local system  
 
 ## Data Analysis
 
@@ -63,5 +63,5 @@ The following are some of the interesting questions that can be analysed using t
     Praseeda Sasanka Pisipati
 
 ## Last modified at
-   09/05/2017 19:24 PM  
+   09/06/2017 08:40 AM  
 
