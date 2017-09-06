@@ -39,7 +39,7 @@ The files include
 
 * isl_wise_train_detail_03082015_v1.csv - This file includes the details of various trains, their departure and arrival times , station names, etc 
 
-> NOTE: As the semseter goes , we will add the necessary files required for further assignments.This file is included in the root folder. As the file size is big, I will eventually move this file into this particular folder.
+> NOTE: As the semseter goes , we will add the necessary files required for further assignments.
 
 ## Data Analysis
 
