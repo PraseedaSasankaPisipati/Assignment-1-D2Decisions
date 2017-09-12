@@ -4,17 +4,7 @@
 Data Entry Analysis
 
 ### List Of Files Added In Data Entry Analysis Directory
-1. [POND2010](https://github.com/sowjanyajoga/IS-assignment/blob/master/Data%20Entry%20Analysis/pond2010.xlsx)
-2. [ZOOPTEMP](https://github.com/sowjanyajoga/IS-assignment/blob/master/Data%20Entry%20Analysis/zoop%20-%20temp.xlsx)
-3. [ZOOPTEMP-MAIN](https://github.com/sowjanyajoga/IS-assignment/blob/master/Data%20Entry%20Analysis/zoop%20-%20temp-main.xlsx)
 
-
-### FILES NEWLY ADDED
-1. [POND2010](https://github.com/sowjanyajoga/IS-assignment/blob/master/Data%20Entry%20Analysis/pond2010.xlsx)
-2. [ZOOPTEMP](https://github.com/sowjanyajoga/IS-assignment/blob/master/Data%20Entry%20Analysis/zoop%20-%20temp.xlsx)
-3. [ZOOPTEMP-MAIN](https://github.com/sowjanyajoga/IS-assignment/blob/master/Data%20Entry%20Analysis/zoop%20-%20temp-main.xlsx)
-4. [Data Entry Analysis.md](https://github.com/sowjanyajoga/IS-assignment/blob/master/Data%20Entry%20Analysis/Data%20Entry%20Analysis.md)   
-Note:  A markdown document which describes the problems in the data files and which provides solutions to those problems
 
 ## Authors
 
@@ -22,19 +12,13 @@ Note:  A markdown document which describes the problems in the data files and wh
 
 See also the list of [contributors](https://github.com/PraseedaSasankaPisipati/Assignment-1-D2Decisions/graphs/contributors) who participated in this project.
 
-## Last modified by
-    Praseeda Sasanka Pisipati
-
-## Last modified at
-   09/011/2017 08:40 PM 
-
 ### Summary Of The Files
 
 The 3 files added as a part of this assignment belong to the same research – the aquatic scientists who collected the above data wanted to examine the day-night distribution of 2 species of zooplankton across multiple years. The type of zooplankton they studied is called rotifers generally, and specifically the genus Conochilus, in which groups of individual rotifers stick together in colonies. The scientists plan to repeat this study for several more years. 
 
 ### Task 1 Problems Identification
 
-#1: Based on class readings, prior experience, and your own good sense, list some of the problems in the way that the data are currently organized (there are at least 8 problems with these spreadsheets; try to identify as many as possible, but at least 4).
+#1: Based on class readings, prior experience, and your own good sense, list some of the problems in the way that the data are currently organized (there are at least 8 problems with these spreadsheets; try to identify as many as possible, but at least 4.
 
 **Answere:** 
 
@@ -64,17 +48,22 @@ The following are the problems identified from the data files provided in this a
 7. No abbrevations should be allowed in defining the column names. Standard naming conventions should be followed while defining the column names. This allows the uniformity in defining the future columns if anything new needs to added. Abbrevations can be defined in the "MetaData Information" column.
 8. Unncecessary colour coding of the data can be removed.
 
-### TABLES
+### Proposed Tables 
 
-**Table A:**  
+**Table 1:**  
 
 | Date | Time(CST) | Temperature(Degree Fahrenheit) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Chippo #/L | Chippo Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
 |------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|------------|--------------------------------|---------------|---------|---------------------------|
 |      |           |                             |                 |                         |         |               |            |                                |               |         |                           |
 
-**Table B:**  
+**Table 2:**  
 
 | Date | Time(CST) | Temperature(Degree Fahrenheit) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Cuni #/L | Cuni Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
 |------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|----------|------------------------------|---------------|---------|---------------------------|
 |      |           |                             |                 |                         |         |               |          |                              |               |         |                           |
 
+## Last modified by
+    Praseeda Sasanka Pisipati
+
+## Last modified at
+   09/011/2017 08:40 PM 
