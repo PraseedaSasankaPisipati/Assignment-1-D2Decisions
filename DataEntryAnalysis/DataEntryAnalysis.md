@@ -52,13 +52,13 @@ The following are the problems identified from the data files provided in this a
 
 **Table 1:**  
 
-| Date | Time(CST) | Temperature(Degree Fahrenheit) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Chippo #/L | Chippo Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
+| Date | Time(CDT) | Temperature(Degree Fahrenheit) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Chippo #/L | Chippo Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
 |------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|------------|--------------------------------|---------------|---------|---------------------------|
 |      |           |                             |                 |                         |         |               |            |                                |               |         |                           |
 
 **Table 2:**  
 
-| Date | Time(CST) | Temperature(Degree Fahrenheit) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Cuni #/L | Cuni Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
+| Date | Time(CDT) | Temperature(Degree Fahrenheit) | Density(Liters) | Colony Diameter(meters) | Species | Depth(meters) | Cuni #/L | Cuni Colony Size(millimeter) | Chlorophyll A | Station | Miscellaneous Information |
 |------|-----------|-----------------------------|-----------------|-------------------------|---------|---------------|----------|------------------------------|---------------|---------|---------------------------|
 |      |           |                             |                 |                         |         |               |          |                              |               |         |                           |
 
